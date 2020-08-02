@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "unicorne",
+    "slug": "snack-8451d129-284d-4094-915f-ef5ee0af75cd",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "🦄 Like Unicorn + Unicode. Get it? I'm so funny. Ok not."
+  }
+}
